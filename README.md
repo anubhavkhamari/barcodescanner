@@ -55,9 +55,10 @@ AndroidManifest.xml (Android)
 Info.plist (iOS)
 📃 License
 
-MIT License — feel free to use, modify, and distribute.
 
 ✨ Author
 
+
 Anubhav Khamari
+
 Connect on LinkedIn : https://www.linkedin.com/in/anubhav-khamari/
